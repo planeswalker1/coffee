@@ -1,0 +1,78 @@
+.note {
+  text-align: center;
+  padding: 20px;
+}
+
+.note__heading {
+  color: #41292C;
+  font-weight: 500;
+}
+
+.note__description {
+  color: #938E89;
+}
+
+.coffees__green {
+  background-color: #9EB599;
+}
+
+.coffees__light {
+  background-color: #683C2C;
+}
+
+.coffees__city {
+  background-color: #4C352D;
+}
+
+.coffees__vienna {
+  background-color: #352926;
+}
+
+.coffees__italian {
+  background-color: #141212;
+}
+
+.coffees__coffee {
+  padding: 20px;
+  color: white;
+  opacity: 0.9;
+}
+
+.coffees__heading {
+  margin: 0;
+  font-size:  2em;
+}
+
+.coffees__description {
+  margin-bottom: 0;
+  font-weight: 400;
+}
+
+.regions__region {
+  border-bottom: 1px solid #E4BB97;
+  padding: 0 20px 60px 20px;
+}
+
+.regions__heading {
+  font-weight: 500;
+  color: #E4BB97;
+}
+
+.regions__description {
+  font-weight: 300;
+  line-height: 2;
+}
+
+.regions__button {
+  color: #000;
+  font-size: 0.8em;
+  font-variant: small-caps;
+  font-weight: 900;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+.regions__button:hover {
+  color: #0000EE;
+  text-decoration: underline;
+}
